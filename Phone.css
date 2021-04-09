@@ -53,6 +53,9 @@
   height: 140px;
   padding: 20px 30px;
 }
+#clients img#img{
+  margin: 40px;
+}
 
 /* Contact */
 #contact-box {
